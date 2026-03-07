@@ -1,0 +1,69 @@
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+htmlcov/
+.nox/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+ENV/
+bin/
+include/
+lib/
+lib64/
+
+# Specific to macOS
+.DS_Store # Ignore macOS-specific metadata files
+.AppleDouble
+.LSOverride
+# Icon? files
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a macOS input volume
+.VolumeIcon.icns
+.com.apple.timemachine.donotcount
+
+# Specific to common IDEs (PyCharm, VS Code)
+.idea/ # PyCharm project files
+.vscode/ # VS Code project files
+
+# Ruff cache
+.ruff_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
