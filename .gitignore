@@ -70,3 +70,8 @@ Icon
 
 #Data folder
 projects/python_project_aiml_logicmojo/python_project_aiml_logicmojo_dataset/
+
+#MS Office files
+*.docx
+*.xlsx
+*.pptx
