@@ -75,3 +75,7 @@ projects/python_project_aiml_logicmojo/python_project_aiml_logicmojo_dataset/
 *.docx
 *.xlsx
 *.pptx
+
+# Claude AI
+CLAUDE.md
+.claude/
