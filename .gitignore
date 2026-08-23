@@ -70,6 +70,8 @@ Icon
 
 #Data folder
 projects/python_project_aiml_logicmojo/python_project_aiml_logicmojo_dataset/
+projects/CreditCard_Fraud_Detection_AI_Risk_Explanation_System/dataset/
+important/
 
 #MS Office files
 *.docx
