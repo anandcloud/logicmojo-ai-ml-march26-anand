@@ -70,7 +70,7 @@ Icon
 
 #Data folder
 projects/python_project_aiml_logicmojo/python_project_aiml_logicmojo_dataset/
-projects/CreditCard_Fraud_Detection_AI_Risk_Explanation_System/dataset/
+projects/fraud_detection_project/creditcard.csv
 important/
 
 #MS Office files
@@ -78,6 +78,8 @@ important/
 *.xlsx
 *.pptx
 
+#CSV Files
+*.csv
 # Claude AI
 CLAUDE.md
 .claude/
